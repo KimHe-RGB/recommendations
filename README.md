@@ -227,6 +227,8 @@ Status Code | Note
 204 | Success
 404 | Not found
 
+bla
+
 ## License
 
 Copyright (c) John Rofrano. All rights reserved.
